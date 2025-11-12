@@ -54,7 +54,6 @@ to the server. They are ‘GET’ & ‘POST’
 *Step-7:* If credentials are not found with GET, apply the *POST method filter*:  
 - http.request.method == "POST"
 
-
 As you analyze the HTML form in POST requests, you can view user credentials (e.g., username and password).  
 Example:  
 - Form item: "uname" = "sai charan"
