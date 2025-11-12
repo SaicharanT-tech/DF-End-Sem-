@@ -53,7 +53,7 @@ to the server. They are ‘GET’ & ‘POST’
 ![(images/exp3-step6.png)](https://github.com/SaicharanT-tech/Digital-Forensics-Lab-Exercises-/blob/1c80535e205e40fbeba920291e9034a62fe89cb2/Images/Screenshot%202025-09-01%20212330.png)
 *Step-7:* If credentials are not found with GET, apply the *POST method filter*:  
 - http.request.method == "POST"
-
+<img width="1919" height="1024" alt="Image" src="https://github.com/user-attachments/assets/c818f90a-76d3-4e1b-85da-8d4366f153e3" />
 As you analyze the HTML form in POST requests, you can view user credentials (e.g., username and password).  
 Example:  
 - Form item: "uname" = "sai charan"
